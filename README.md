@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer currently studying at *
 
 🚀 **Currently working on:**
 - Building and improving **crypto trading bots** using Python.
-- Exploring **DeFi** protocols and algorithmic trading strategies.
+- Exploring algorithmic trading strategies.
 
 🎓 **Education:**
 - **Codam Coding College**: A rigorous coding program focused on problem-solving and real-world coding skills with a hands-on approach.

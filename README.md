@@ -14,10 +14,8 @@ Welcome to my GitHub profile! I'm a passionate developer currently studying at *
 - Creating efficient and scalable solutions.
 - Learning new technologies and improving my skills every day.
 
-💼 **Open to:**
-- **Junior Developer/Engineer** positions.
-- **Internships** in software development or trading bots.
-- **Freelance** opportunities related to crypto, trading bots, and software development.
+💼 **Working at:**
+- **[Skylark](https://www.skylark.dev/)** - helping non-technical founders launch apps and platforms in weeks, not months.
 
 🔗 **Let's connect!**
 - [LinkedIn](https://www.linkedin.com/in/paulius-minialga-437510137/)
